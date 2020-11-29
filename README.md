@@ -6,6 +6,7 @@ Bachelor in Business Administration with 5 years background in Procurement at la
 
 
 **Background in:** Business, Procurement and fresh in Data Science world.
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-gouvêa-silva-8b665a93)
 * [Medium](https://medium.com/@leonardo.hgouvea)
