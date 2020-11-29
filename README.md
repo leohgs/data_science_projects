@@ -2,7 +2,7 @@
 
 
 # Leonardo Gouvêa Silva
-Bachelor in Business Administration with 5 years background in Procurement at large multinational companies. Recently started diving into Data Science world, having started a MBA in Data Science and Analytics and constantly looking for new projects to apply in the everyday life.
+Bachelor in Business Administration with 5 years of background in Procurement at large multinational companies. Recently started diving into Data Science world, having started a MBA in Data Science and Analytics and constantly looking for new projects to apply in the everyday life.
 
 
 **Background in:** Business, Procurement and fresh in Data Science world.
