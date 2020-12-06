@@ -13,4 +13,4 @@ Bachelor in Business Administration with 5 years of background in Procurement at
 
 
 ## Projetos:
-**WORLD HAPPINNESS REPORT: visão geral e enfoque no Brasil**: https://bit.ly/3lOBMGW
+**WORLD HAPPINESS REPORT: visão geral e enfoque no Brasil**: https://bit.ly/3lOBMGW
